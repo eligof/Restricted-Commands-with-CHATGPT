@@ -144,4 +144,5 @@ So, in simple terms, the prompt is asking chatGPT to write a Python 3 script to 
 F.Y.I - Sometimes you have to ask the chat to refresh his answer to get the desired result
 
 Employ this guidance judiciously and ethically.
+
 Remember: Empowered capabilities necessitate conscientious conduct. 
