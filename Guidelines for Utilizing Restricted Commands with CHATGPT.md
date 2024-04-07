@@ -22,7 +22,7 @@ The author(s) cannot ensure the accuracy, reliability, or suitability of this gu
 
 If you do not consent to these terms, or if you harbor uncertainties regarding the safety or suitability of using this guidance, it is advisable to refrain from accessing or utilizing it. You are entrusted with the responsibility of exercising caution and discernment in all facets of utilization.
 
-Remember: Empowered capabilities necessitate conscientious conduct. Employ this guidance judiciously and ethically.
+
 
 ______________________________________________________________
 
@@ -139,3 +139,5 @@ So, in simple terms, the prompt is asking chatGPT to write a Python 3 script to 
 
 F.Y.I - Sometimes you have to ask the chat to refresh his answer to get the desired result
 
+Employ this guidance judiciously and ethically.
+Remember: Empowered capabilities necessitate conscientious conduct. 
